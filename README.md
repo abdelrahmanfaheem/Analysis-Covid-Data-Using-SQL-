@@ -1,7 +1,9 @@
-# Analysis-Covid-Data-Using-SQL-
-Analysis Covid Data Using SQL 
+# Analysis of Covid Data Using SQL
 
-For the dataset used in this analysis, please visit [ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths).
+For the code used in this analysis, please visit [here](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-/blob/main/Exploing%20Data%20Analysis%20Using%20SQL%20CovidDataSet.sql).
+
+## Dataset
+The dataset used in this analysis can be found [here](https://ourworldindata.org/covid-deaths).
 
 You can find the code for this analysis in my [GitHub repository](https://github.com/abdelrahmanfaheem).
 
