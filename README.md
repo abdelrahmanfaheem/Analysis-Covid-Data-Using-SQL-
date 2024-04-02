@@ -1,4 +1,6 @@
 # Analysis of Covid Data Using SQL
+- Developed a comprehensive set of SQL queries for analyzing Covid-19 data, focusing on various aspects such as total cases, new cases, total deaths, new deaths, population, death rate, recovery rate, and vaccination data across different locations.
+
 
 For the code used in this analysis, please visit [here](https://github.com/abdelrahmanfaheem/Analysis-Covid-Data-Using-SQL-/blob/main/Exploing%20Data%20Analysis%20Using%20SQL%20CovidDataSet.sql).
 
